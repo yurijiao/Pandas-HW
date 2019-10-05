@@ -1,0 +1,12 @@
+Performance Analysis
+ 1. Based on the culmulative return, Berkshire Hathaway Inc. and Algo 1 outperform S&P 500 in the long term
+Risk Analysis
+ 1. Based on the box plot of each of the returns, Tiger Global Management LLC has the largest spread, and Paulson&Co Inc has the smallest spread.
+ 2. Tiger global Management LLC and Berkshire Hathaway Inc are riskier than S&P 500 since their standard deviations are larger than that of the S&P 500.Rolling Statistics
+ 1. Based on the rolling standard deviation of the portfolios and of the S&P 500, the risk of each portfolio moves at approximately the same time risk increases in the S&P
+ 2. Based on the correlation table, algorithmic 2 protfolio most closely mimic the S&P
+ 3. Algorithmic 2 portfolio has a beta of .84, which means that it closesly tracks the movement of the overall market
+Sharp Ratio
+ 2. The algorithmic stratigies, particularly the algo 1 portfolio, outform both the market nd the whales portfolios.
+Custom Portfolio
+ 3.basesd on the shapr ratio bar plot, my portfolio returns outperforms the market as well as the whals portfolio.
